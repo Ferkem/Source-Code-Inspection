@@ -1,5 +1,7 @@
 package br.calebe.ticketmachine.core;
 
+//MAIS Q DELICIA DE CODIGO ODAIR
+
 /**
  *
  * @author Calebe de Paula Bianchini
